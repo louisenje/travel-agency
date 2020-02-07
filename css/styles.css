@@ -1,0 +1,29 @@
+.main{
+    text-align: center;
+    font-size: 25px;
+
+}
+    .important {
+        color: red;
+        text-align: left;
+        
+      }
+      .unimportant {
+        color: blue;
+      }
+      .cat-climate {
+        background-color: yellow;
+      }
+ 
+
+.sub{
+    font-size: 30;
+    
+}
+.subb{
+    color:black
+}
+     
+
+
+        
